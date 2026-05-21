@@ -1,0 +1,1 @@
+Open-source AI models allow developers to run LLMs locally. This ensures total data privacy and eliminates API subscription costs. By using frameworks like Ollama, integration becomes simple.
