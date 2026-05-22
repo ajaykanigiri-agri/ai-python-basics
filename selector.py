@@ -15,5 +15,7 @@ elif ram >= 8:
     print("Your system can handle medium-end AI models.")
 elif ram < 8:
     print("Your system can't handle AI models.") 
+elif ram < 4:
+    print("Your system can only handle basic operations.")
 else:
     print("Your system is best suited for lightweight AI models.")

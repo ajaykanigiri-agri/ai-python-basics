@@ -8,7 +8,7 @@ while True:
 
     # 2. Check the cleaned-back command against known keywords
     if user_command == "exit":
-        print("Closing the AI Gateway. Goodbye!")
+        print("Closing the AI Gateway for test. Goodbye!")
         break  # This stops the while loop immediately
         
     elif user_command == "summarize":
